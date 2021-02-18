@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Refactor_lab1.dir/main.cpp.o  -o Refactor_lab1 
